@@ -1,1 +1,1 @@
-nntest.sh is a bash library for writing tests as shell scripts.
+qnntest.sh is a bash library for writing tests as shell scripts.
